@@ -1,0 +1,7 @@
+pandas
+kaggle
+wandb
+# torch
+ipykernel
+jupyter
+jupyter_nbextensions_configurator
