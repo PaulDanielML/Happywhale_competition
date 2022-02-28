@@ -3,3 +3,7 @@ submissions/
 data/
 .env
 __pycache__/
+*.pickle
+wandb/
+.vscode/
+U2Net/

@@ -1,0 +1,17 @@
+{
+    "id": "sharppa/<placeholder>",
+    "title": "<placeholder>",
+    "code_file": "<placeholder>.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": true,
+    "enable_gpu": true,
+    "enable_internet": true,
+    "keywords": [],
+    "dataset_sources": [
+        "sharppa/happywhale-cropped",
+        "sharppa/utilities"
+    ],
+    "kernel_sources": [],
+    "competition_sources": []
+}

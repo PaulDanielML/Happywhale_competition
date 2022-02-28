@@ -1,0 +1,20 @@
+{
+    "id": "sharppa/mosaic_tryout",
+    "title": "mosaic_tryout",
+    "code_file": "mosaic_tryout.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": true,
+    "enable_gpu": true,
+    "enable_internet": true,
+    "keywords": [
+        "gpu"
+    ],
+    "dataset_sources": [
+        "sharppa/utilities"
+    ],
+    "kernel_sources": [],
+    "competition_sources": [
+        "c/happy-whale-and-dolphin"
+    ]
+}

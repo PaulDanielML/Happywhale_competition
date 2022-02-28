@@ -1,0 +1,21 @@
+{
+    "id": "sharppa/pytorch-classifier",
+    "id_no": 24465735,
+    "title": "pytorch_classifier",
+    "code_file": "pytorch_classifier.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": true,
+    "enable_gpu": true,
+    "enable_internet": true,
+    "keywords": [
+        "gpu"
+    ],
+    "dataset_sources": [
+        "sharppa/utilities"
+    ],
+    "kernel_sources": [],
+    "competition_sources": [
+        "c/happy-whale-and-dolphin"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sharppa/arcface",
+    "title": "arcface",
+    "code_file": "arcface.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": true,
+    "enable_gpu": true,
+    "enable_internet": true,
+    "keywords": [],
+    "dataset_sources": [
+        "sharppa/utilities",
+        "sharppa/arcface-weights"
+    ],
+    "kernel_sources": [],
+    "competition_sources": [
+        "c/happy-whale-and-dolphin"
+    ]
+}

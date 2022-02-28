@@ -1,0 +1,16 @@
+{
+    "id": "sharppa/arcface-weights",
+    "datasetSlug": "arcface-weights",
+    "ownerUser": "sharppa",
+    "title": "arcface-weights",
+    "subtitle": "",
+    "description": "",
+    "isPrivate": true,
+    "licenses": [
+        {
+            "name": "CC0-1.0"
+        }
+    ],
+    "collaborators": [],
+    "data": []
+}

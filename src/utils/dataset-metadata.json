@@ -1,0 +1,18 @@
+{
+    "id": "sharppa/utilities",
+    "id_no": 1922564,
+    "datasetId": 1922564,
+    "datasetSlug": "utilities",
+    "ownerUser": "sharppa",
+    "title": "utilities",
+    "subtitle": "",
+    "description": "",
+    "isPrivate": true,
+    "licenses": [
+        {
+            "name": "CC0-1.0"
+        }
+    ],
+    "collaborators": [],
+    "data": []
+}

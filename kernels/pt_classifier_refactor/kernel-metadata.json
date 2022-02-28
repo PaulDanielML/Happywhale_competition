@@ -1,0 +1,18 @@
+{
+    "id": "sharppa/pt_classifier_refactor",
+    "title": "pt_classifier_refactor",
+    "code_file": "pt_classifier_refactor.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": true,
+    "enable_gpu": true,
+    "enable_internet": true,
+    "keywords": [],
+    "dataset_sources": [
+        "sharppa/utilities"
+    ],
+    "kernel_sources": [],
+    "competition_sources": [
+        "c/happy-whale-and-dolphin"
+    ]
+}

@@ -1,7 +1,12 @@
 pandas
 kaggle
 wandb
-# torch
+torch
+timm
+torchvision
+sklearn
+albumentations
 ipykernel
 jupyter
 jupyter_nbextensions_configurator
+git+http://github.com/PaulDanielML/common_utils.git
